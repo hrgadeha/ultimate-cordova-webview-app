@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.example.hello" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>DenEvents</name>
+<widget id="io.uandh.web" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>UandH Web</name>
     <description>
-        Discover trending events in Denmark
+        Discover our would in a new way
     </description>
-    <author email="nioperas06@gmail.com" href="http://dusthq.com">
-        DustHQ
+    <author email="web@uandh.in" href="https://uandh.in">
+        UandH Technologies
     </author>
     <content src="index.html" />
     <access origin="*" />
