@@ -88,12 +88,12 @@ h1 {
 }
 
 .event.listening {
-    background-color:#333333;
+    background-color:#005587;
     display:block;
 }
 
 .event.received {
-    background-color:#4B946A;
+    background-color:#319B42;
     display:none;
 }
 
@@ -110,6 +110,6 @@ h1 {
 }
  
 .blink {
-    animation:fade 3000ms infinite;
-    -webkit-animation:fade 3000ms infinite;
+    animation:fade 1000ms infinite;
+    -webkit-animation:fade 1000ms infinite;
 }
